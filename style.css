@@ -1,0 +1,195 @@
+#title{
+    background-image: url("./images/bgimg3.png");
+    color: #E45826;
+  }
+  
+  
+  .navbar-brand{
+    font-family: "Poppins";
+    padding-left: 5%;
+    font-size: 35px;
+    line-height: 52px;
+    font-weight: bold;
+    color: #E45826;
+  }
+  .register-button{
+      
+      margin-left: 600%;
+  }
+  #platform{
+      margin-top: 0;
+      padding: 3% 10% 3%;
+      text-align: center;
+      background-color: #FAF3ED;
+      ;
+  }
+  .fa{
+      color:grey;
+  }
+
+  #service
+  {
+      padding: 5% 15% 7%;
+      text-align: center;
+  }
+
+  #footer{
+    padding: 5% 15% 7%;
+    text-align: center;
+    background-color: #E45826;
+    color: white;
+  }
+  .container-fluid{
+    padding: 0 0 10% 0;
+  }
+
+  .insta{
+      font-family: "Neue Helvetica";
+  }
+  .head
+  {
+    padding-top: 5%;
+    padding-left: 5%;
+  }
+  
+
+  .btn{
+      margin-top: 10%;
+      background-color: orangered;
+      color: white;
+  }
+
+  .cpr{
+      text-align: center;
+      padding: 3% 30% 1% ;
+      color: white;
+  }
+  h1{
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+  }
+  
+  h2{
+    color: #E45826;
+    font-family: "Poppins";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+  
+  }
+  
+  h3{
+    color: #E45826;
+    font-family: "Poppins";
+    font-weight: 900;
+    padding-bottom: 3%;
+    
+  }
+  h5{
+      color: black;
+  }
+  p{
+    color: black;
+  }
+  
+  
+  
+  
+  
+  .nav-item{
+    padding: 0 18px;
+  }
+  
+  .nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+  
+  }
+  .fas{
+    size: 3x;
+  }
+  .title-image{
+    position: absolute;
+  }
+  
+  .col-sm{
+      text-align: left;
+      color:white;
+      text-decoration: none;
+
+  }
+
+  .service-box{
+      padding-top: 3%;
+      text-align:left;
+      font-family: "Poppings";
+  }
+  #features{
+    padding: 3% 10%;
+    background-color: #f7f6f2;
+    position: relative;
+  }
+  
+  .feature-box{
+    text-align: center;
+    padding: 5%;
+  }
+
+  .card{
+      padding-top: 10%;
+      background-color: white;
+  }
+  
+  .icon{
+    color: #E45826;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover{
+    color: #f5863c;
+  }
+  
+  
+  #testimonials{
+      padding: 3% 5%;
+    font-family: "Poppins";
+    text-align: center;
+    background-color: #FCECDD;
+  }
+  
+  .testimonials-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+  } 
+  #online
+  {
+      background-color: #e5e5e5;
+      padding-bottom: 3%;
+  }
+  
+  #product{
+    padding: 3%;
+    text-align: center;
+    background-color: #FCECDD;
+    font-family: "Poppins";
+    ;
+  }
+  
+  .product-column {
+    padding: 3% 2%;
+  }
+
+  .bsn{
+    text-align: center;
+    width: 30%;
+    height: 100%;
+    padding: 15px;
+    margin-left: 35%;
+    background-color: #FCECDD; 
+  }
+  
